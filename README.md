@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olusegun! <br/> <a href="https://www.linkedin.com/in/olusegunbamgbose/">Cybersecurity Professional</a> 
+<h1>Hi, I'm Olusegun! <br/> <a href="https://www.linkedin.com/in/olusegunbamgbose/">IT Support and Cybersecurity Professional</a> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
