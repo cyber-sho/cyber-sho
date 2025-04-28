@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/cyber-sho/ActiveDirectoryLab)
-  
+- [SIEM-Home-Lab](https://github.com/cyber-sho/SIEM-Home-Lab)
+
 <h2>Certifications</h2>
 
 - [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
